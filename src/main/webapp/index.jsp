@@ -61,7 +61,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="#">Birthday</a>
+      <a class="navbar-brand" href="#">Krrish</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
@@ -76,12 +76,12 @@
 
 <!-- Second Container -->
 <div class="container-fluid bg-2 text-center">
-  <h3 class="margin">Birthday Wishes</h3>
+  <h3 class="margin">KUDIPUDI RAMA KRISHNA</h3>
 	<p>The day has arrived.</p>
 	<p>The day for you.</p>
-  <p>The day reminded everyone that this was the day that brought smiles to their faces in the family. and they extend their love to you, giving blessings, and the day is very close to you; it reminds you of loads of memories to carry with you. Happy Birth Day!” </p>
-  <a href="https://script.google.com/macros/s/AKfycbwj5TekeN6joGeWrScx0unRnBkrg432UQz2ilREa0YhWjDcXkZvun0b_ZdtFrVg-axF/exec">
-    <span class="glyphicon glyphicon-heart"></span> VIEW SPECIAL WISHES
+  <p>The day reminded everyone that this was the day that brought smiles to their faces in the family. and they extend their love to you, giving blessings, and the day is very close to you; it reminds you of loads of memories to carry with you. </p>
+  <a href="https://www.kudipudirk.cloud/">
+    <span class="glyphicon glyphicon-user"></span> MY PROFILE
   </a>
 </div>
 </body>
