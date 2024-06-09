@@ -79,7 +79,7 @@
   <h3 class="margin">SRAVANI</h3>
 	<p>NO.1 Waste Fellow.</p>
   <p>The day reminded everyone that this was the day that brought crying to their faces in the family because she is no.1 wastefellow. and they extend their love to you because she is stupid, giving blessings, and the day is very close to you; it reminds you of loads of memories to carry with you. </p>
-  <a href="https://www.kudipudirk.cloud/">
+  <a href="https://kudipudirk99.blogspot.com/">
     <span class="glyphicon glyphicon-user"></span> MY PROFILE
   </a>
 </div>
