@@ -76,7 +76,7 @@
 
 <!-- Second Container -->
 <div class="container-fluid bg-2 text-center">
-  <h3 class="margin">KUDIPUDI RAMA KRISHNA</h3>
+  <h3 class="margin">SRAVANI</h3>
 	<p>The day has arrived.</p>
 	<p>The day for you.</p>
   <p>The day reminded everyone that this was the day that brought smiles to their faces in the family. and they extend their love to you, giving blessings, and the day is very close to you; it reminds you of loads of memories to carry with you. </p>
